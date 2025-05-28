@@ -22,3 +22,10 @@ footer{
 #cursos, #contacto{
     scroll-margin-top: 100px;
 }
+.animation-card{
+    transition: transform 0.3s ease-in-out;
+}
+.animation-card:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
