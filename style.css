@@ -29,3 +29,7 @@ footer{
     transform: scale(1.1);
     cursor: pointer;
 }
+.btn-outline-warning:hover{
+    background-color: #ffc107 !important;
+    color: black !important;
+}
